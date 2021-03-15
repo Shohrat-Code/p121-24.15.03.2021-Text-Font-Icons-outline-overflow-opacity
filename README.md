@@ -4,16 +4,16 @@
 ### Tapşırıq.
 
 ##### 1. Aşağıdakı linkləri və əlaqədar linkləri oxuyun:
-https://www.w3schools.com/css/css_outline.asp
-https://www.w3schools.com/css/css_text.asp
-https://www.w3schools.com/css/css_font.asp
-https://www.w3schools.com/css/css_icons.asp
-https://www.w3schools.com/css/css_link.asp
-https://www.w3schools.com/css/css_list.asp
-https://www.w3schools.com/css/css_table.asp
-https://www.w3schools.com/css/css_overflow.asp
-https://www.w3schools.com/css/css_align.asp
-https://www.w3schools.com/css/css_image_transparency.asp
+https://www.w3schools.com/css/css_outline.asp <br />
+https://www.w3schools.com/css/css_text.asp<br />
+https://www.w3schools.com/css/css_font.asp<br />
+https://www.w3schools.com/css/css_icons.asp<br />
+https://www.w3schools.com/css/css_link.asp<br />
+https://www.w3schools.com/css/css_list.asp<br />
+https://www.w3schools.com/css/css_table.asp<br />
+https://www.w3schools.com/css/css_overflow.asp<br />
+https://www.w3schools.com/css/css_align.asp<br />
+https://www.w3schools.com/css/css_image_transparency.asp<br />
 
 
 ##### 2. Şəkildəki görüntünü kodlayın:
