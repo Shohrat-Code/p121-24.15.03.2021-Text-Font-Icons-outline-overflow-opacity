@@ -17,4 +17,4 @@ https://www.w3schools.com/css/css_image_transparency.asp
 
 
 ##### 2. Şəkildəki taskı kodlayın:
-![alt text](http://url/to/img.png)
+![task image](https://github.com/Shohrat-Code/p121-24.15.03.2021-Text-Font-Icons-outline-overflow-opacity/blob/96c0e2d90e1e0fc31118527666e3db47d81ed97f/task.PNG)
